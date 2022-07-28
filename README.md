@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajnishPS 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on anything related to whatever I'm learning right now,
+- 💞️ I’m looking to collaborate on anything related to whatever I'm learning right now
 - 📫 Email me at rps.rajnish@gmail.com
 
 <!---
