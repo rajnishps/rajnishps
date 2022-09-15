@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajnishPS 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning next.js
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on anything related to whatever I'm learning right now
 - 📫 Email me at rps.rajnish@gmail.com
 
