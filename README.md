@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajnishPS 
+- 👋 Hi, I’m Rajnish Pratap Singh 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on anything related to whatever I'm learning right now
