@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajnish Pratap Singh 
-- 🔗 Ckeck out : https://rajnishps.vercel.app/
+- 🔗 Ckeck out : https://rajnish.tech/
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on anything related to whatever I'm learning right now
